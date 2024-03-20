@@ -28,6 +28,24 @@
 <link rel="canonical" href="https://sfndsn.github.io/">
 
 
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        var darkModeToggle = document.getElementById('dark-mode-toggle');
+        var body = document.body;
+
+        darkModeToggle.addEventListener('click', function () {
+            if (body.classList.contains('colorscheme-light')) {
+                body.classList.remove('colorscheme-light');
+                body.classList.add('colorscheme-dark');
+            } else {
+                body.classList.remove('colorscheme-dark');
+                body.classList.add('colorscheme-light');
+            }
+        });
+    });
+</script>
+
+
 <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
 
 
@@ -144,7 +162,9 @@
     padding-right: 40px;
   }
 
-  #right {}
+  #right {
+    text-align: right;
+  }
 
   .about {
     text-align: left;
@@ -164,14 +184,14 @@
         
         <li style="font-size: 14px; line-height: 1.15;">
           <a style="color:rgb(21, 101, 192)" href="https://sfndsn.github.io/papers/diwabetechnostress.pdf">Are We Yet Sick of New Technologies? The Unequal Health Effects of Digitalization</a><br>
-          (with Melanie Arntz, Stephan Maurer, and Oliver Schlenker), <b>Working Paper</b> 2024
+          (with Melanie Arntz, Stephan Maurer, and Oliver Schlenker), <b>Working Paper</b> (2024)
         </li>
         
 
         
         <li style="font-size: 14px; line-height: 1.15; margin-top: 5px;">
           <a style="color:rgb(21, 101, 192)" href="https://sfndsn.github.io/papers/socialmobility.pdf">Social Mobility in Germany</a><br>
-          (with Majed Dodin, Lukas Henkel Dominik Sachs, and Paul Schüle), <b>Journal of Public Economics</b> (232, 105074, 2024)
+          (with Majed Dodin, Lukas Henkel Dominik Sachs, and Paul Schüle), <b>Journal of Public Economics</b> (2024)
         </li>
         
       </ul>
