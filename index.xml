@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Sebastian Findeisen</title>
-    <link>https://sfndsn.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Sebastian Findeisen</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="https://sfndsn.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Contact</title>
-      <link>https://sfndsn.github.io/contact/</link>
+      <link>http://localhost:1313/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sfndsn.github.io/contact/</guid>
+      <guid>http://localhost:1313/contact/</guid>
       <description>&lt;p&gt;E-Mail: &lt;a href=&#34;mailto:sebastian.findeisen@uni-konstanz.de&#34;&gt;sebastian.findeisen@uni-konstanz.de&lt;/a&gt;&lt;br&gt;&#xA;Phone: +49 7531 882120&lt;br&gt;&#xA;&lt;a href=&#34;https://twitter.com/SebastianFind&#34;&gt;X/Twitter&lt;/a&gt; (occasional updates on research)&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Assistant:&lt;/strong&gt;&lt;br&gt;&#xA;Madeleine Hafner&lt;br&gt;&#xA;E-Mail: &lt;a href=&#34;mailto:office-findeisen@uni-konstanz.de&#34;&gt;office-findeisen@uni-konstanz.de&lt;/a&gt;&lt;br&gt;&#xA;Phone: +49 7531 885224&lt;/p&gt;</description>
     </item>
     <item>
       <title>Research</title>
-      <link>https://sfndsn.github.io/research/</link>
+      <link>http://localhost:1313/research/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://sfndsn.github.io/research/</guid>
-      <description>&lt;h3 id=&#34;working-papers&#34;&gt;&#xA;  Working Papers&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#working-papers&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&#xD;&#xA;    &lt;a style=&#34;color:rgb(21, 101, 192)&#34; href= /papers/diwabetechnostress.pdf&gt;&lt;b&gt;Are We Yet Sick of New Technologies? The Unequal Health Effect of Workplace Digitalization &lt;/b&gt;&lt;/a&gt; &lt;br&gt;&#xD;&#xA;    (with Melanie Arntz, Stephan Maurer, and Oliver Schlenker), &lt;b&gt;&lt;/b&gt; 2025&#xD;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xD;&#xA;    &lt;a style=&#34;color:rgb(21, 101, 192)&#34; href= /papers/OrganizedLaborRobots.pdf&gt;&lt;b&gt;Organized Labor Versus Robots? Evidence from Micro Data&lt;/b&gt;&lt;/a&gt; &lt;br&gt;&#xD;&#xA;    (with Wolfgang Dauth, and Oliver Schlenker), &lt;b&gt;&lt;/b&gt; 2024&#xD;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xD;&#xA;    &lt;a style=&#34;color:rgb(21, 101, 192)&#34; href= /papers/transforminginstitutions.pdf&gt;&lt;b&gt;Transforming Institutions: Labor Reallocation and Wage Growth in a Reunified Germany&lt;/b&gt;&lt;/a&gt; &lt;br&gt;&#xD;&#xA;    (with Sang Yoon (Tim) Lee, Tommaso Porzio, and Wolfgang Dauth), &lt;b&gt;&lt;/b&gt; 2021&#xD;&#xA;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/research/</guid>
+      <description>&lt;h3 id=&#34;working-papers&#34;&gt;&#xA;  Working Papers&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#working-papers&#34;&gt;&#xA;    &lt;i class=&#34;fa fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h3&gt;&#xA;&lt;p&gt;&#xA;    &lt;b style=&#34;color:rgb(21, 101, 192)&#34;&gt;&lt;b&gt;Family-Friendly Workplace Policies&lt;/b&gt;&lt;/b&gt; &lt;br&gt;&#xA;    (with Julián Costas-Fernández, Anna Raute, and Uta Schönberg), &lt;b&gt;&lt;/b&gt; 2026&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xD;&#xA;    &lt;a style=&#34;color:rgb(21, 101, 192)&#34; href= /papers/diwabetechnostress.pdf&gt;&lt;b&gt;Are We Yet Sick of New Technologies? The Unequal Health Effect of Workplace Digitalization &lt;/b&gt;&lt;/a&gt; &lt;br&gt;&#xD;&#xA;    (with Melanie Arntz, Stephan Maurer, and Oliver Schlenker), &lt;b&gt;&lt;/b&gt; 2025&#xD;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&#xD;&#xA;    &lt;a style=&#34;color:rgb(21, 101, 192)&#34; href= /papers/OrganizedLaborRobots.pdf&gt;&lt;b&gt;Organized Labor Versus Robots? Evidence from Micro Data&lt;/b&gt;&lt;/a&gt; &lt;br&gt;&#xD;&#xA;    (with Wolfgang Dauth, and Oliver Schlenker), &lt;b&gt;&lt;/b&gt; 2024&#xD;&#xA;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
