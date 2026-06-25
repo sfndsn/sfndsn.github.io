@@ -127,7 +127,6 @@
     flex: 40%;
   }
 
-
   .flex-item-right {
     flex: 55%;
   }
@@ -139,10 +138,20 @@
     .flex-item-left {
       flex: 95%;
     }
+
+    #left {
+      padding-right: 0;
+      padding-top: 24px;
+    }
+
+    #right {
+      text-align: center;
+    }
   }
 
   #left {
     padding-right: 40px;
+    padding-top: 70px;
   }
 
   #right {
@@ -157,41 +166,50 @@
     font-size: medium;
     font-weight: normal;
   }
+
+  .recent-papers-title {
+    font-size: 18px;
+    margin-bottom: 10px;
+  }
+
+  .recent-papers-list {
+    list-style-type: none;
+    padding-left: 0;
+    margin-top: 0;
+    line-height: 1.5;
+  }
+
+  .recent-paper {
+    font-size: 14px;
+    line-height: 1.25;
+    margin-bottom: 14px;
+  }
+
+  .recent-paper:last-child {
+    margin-bottom: 0;
+  }
 </style>
 
 <div class="container">
   <div class="flex-container">
     <div id="left" class="flex-item-left">
-      <h2 style="font-size: 18px; margin-bottom: 0;">Recent Papers</h2>
-      <ul style="list-style-type: none; padding-left: 0; margin-top: 0; line-height: 1.5;">
-        
-        <li style="font-size: 14px; line-height: 1.15;">
-          <a style="color:rgb(21, 101, 192)" href="http://localhost:1313/papers/diwabetechnostress.pdf">Are We Yet Sick of New Technologies? The Unequal Health Effects of Workplace Digitalization</a><br>
-          (with Melanie Arntz, Stephan Maurer, and Oliver Schlenker), <b>Working Paper</b> (2025)
+      <h2 class="recent-papers-title">Recent Papers</h2>
+      <ul class="recent-papers-list">
+        <li class="recent-paper">
+          <a style="color:rgb(21, 101, 192)" href="http://localhost:1313/papers/Family_Friendly_Policies.pdf">Family-Friendly Workplace Policies</a><br>
+          (with Julián Costas-Fernández, Anna Raute, and Uta Schönberg), 2026
         </li>
-        
 
-        
-        <li style="font-size: 14px; line-height: 1.15; margin-top: 5px;">
+        <li class="recent-paper">
+          <a style="color:rgb(21, 101, 192)" href="http://localhost:1313/papers/diwabetechnostress.pdf">Are We Yet Sick of New Technologies? The Unequal Health Effect of Workplace Digitalization</a><br>
+          (with Melanie Arntz, Stephan Maurer, and Oliver Schlenker), 2025
+        </li>
+
+        <li class="recent-paper">
           <a style="color:rgb(21, 101, 192)" href="http://localhost:1313/papers/OrganizedLaborRobots.pdf">Organized Labor Versus Robots? Evidence from Micro Data</a><br>
-          (with Wolfgang Dauth, and Oliver Schlenker), <b>Working Paper</b> (2024)
+          (with Wolfgang Dauth, and Oliver Schlenker), 2025
         </li>
-            
-        
-        
-        <li style="font-size: 14px; line-height: 1.15; margin-top: 5px;">
-          <a style="color:rgb(21, 101, 192)" href="http://localhost:1313/papers/socialmobility.pdf">Social Mobility in Germany</a><br>
-          (with Majed Dodin, Lukas Henkel Dominik Sachs, and Paul Schüle), <b>Journal of Public Economics</b> (2024)
-        </li>
-        
-       
       </ul>
-
-      <h2 style="font-size: 18px; margin-bottom: 0;">Upcoming Workshop:</h2>
-      <p style="font-size: 14px; line-height: 1.15; margin-top: 0;">
-        <a href="http://localhost:1313/workshop/workshop.pdf" style="color:rgb(21, 101, 192)">Workshop &#34;Determinants and Consequences of Labor Market Mobility&#34;</a><br>
-        <span style="margin-top: 0;">(Konstanz, July 1-2, 2024)</span>
-      </p>
     </div>
     <div id="right" class="flex-item-right">
       
@@ -206,6 +224,7 @@
     </div>
   </div>
 </div>
+
 
     </div>
 
